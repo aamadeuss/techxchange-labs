@@ -6,7 +6,7 @@ In this section, you are going to log in to IBM Cloud, understand how you can de
 
 ## Log in to IBM Cloud
 
-1. Go to https://ibm.biz/1791-invite
+1. Go to https://ibm.biz/rhoai-lab
 1. Enter the `Username` and `Password` provided for the lab.
 1. Click **Sign in**.
   ![](images/10-login.png ':size=600')
